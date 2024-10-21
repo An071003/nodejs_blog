@@ -1,9 +1,11 @@
 @import "variables";
 
-h1{
-    color: $red-color;
+a {
+    color: red;
 }
 
-h2 {
-    color: red;
+.container{
+    background-color: brown;
+    max-width: 800px;
+    max-height: 300px;
 }

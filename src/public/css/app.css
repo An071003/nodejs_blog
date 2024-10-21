@@ -1,5 +1,7 @@
-h1 {
-  color: green; }
-
-h2 {
+a {
   color: red; }
+
+.container {
+  background-color: brown;
+  max-width: 800px;
+  max-height: 300px; }
